@@ -1,5 +1,5 @@
 {
-  "name": "Caption Bot",
+  "name": "𝙃𝙊𝙉𝙀𝙔 𝘾𝘼𝙋𝙏𝙄𝙊𝙉",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://telegram.com/DFF_TextReplaceBot",
+  "success_url": "https://github.com/deadlyhoney/TG-Caption-Bot.git",
   "website": "https://github.com/0AIB/TG-Caption-Bot",
   "repository": "https://github.com/0AIB/TG-Caption-Bot",  
   "env": {
